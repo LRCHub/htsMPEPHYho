@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "また来襲",
+  "base_artist": "めいちゃん",
+  "createdAt": "2026-01-13T20:53:46.698095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また来襲",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_また来襲_めいちゃん.txt"
+    }
+  ]
+}
